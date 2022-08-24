@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Dennis Rivers">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10415</md:content-id>
     <md:title>Communication Skills for Personal and Professional Development: The Seven Challenges Approach</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
     <md:uuid>05675a2c-63a4-4699-b879-dfb97512c621</md:uuid>
-<md:slug>communication-skills-for-personal-and-professional-development-the-seven-challenges-approach</md:slug>
-</metadata>
+    <md:slug>communication-skills-for-personal-and-professional-development-the-seven-challenges-approach</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Overview:  The terrain of communication skills.</md:title>
@@ -39,13 +40,13 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Challenge Five: Asking questions more ”open-endedly” and more creatively</md:title>
+      <md:title>Challenge Five: Asking questions more &#x201D;open-endedly&#x201D; and more creatively</md:title>
       <col:content>
         <col:module document="m14489"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Challenge Six: Thanking…  Exploring and expressing more appreciation, gratitude, encouragement and delight</md:title>
+      <md:title>Challenge Six: Thanking&#x2026;  Exploring and expressing more appreciation, gratitude, encouragement and delight</md:title>
       <col:content>
         <col:module document="m14490"/>
       </col:content>
